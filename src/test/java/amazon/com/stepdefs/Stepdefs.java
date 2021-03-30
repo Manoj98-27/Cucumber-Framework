@@ -19,8 +19,6 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
 public class Stepdefs {
-	
-	
 
 	    WebDriver driver;
 	    String base_url = "https://amazon.in";
